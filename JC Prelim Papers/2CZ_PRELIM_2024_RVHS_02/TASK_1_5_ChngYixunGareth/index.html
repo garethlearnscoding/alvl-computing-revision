@@ -1,0 +1,23 @@
+<!DOCTYPE >
+<html>
+  <header>
+    <title>Cubicle Availability on {{date}}</title>
+  </header>
+
+  <body>
+    <center>
+      <h1>Cubicle Availability on {{date}}</h1>
+      <table
+        border="1"
+        style="width:200px; border: 1px solid black; border-collapse: collapse"
+      >
+        {% for avail in avails %}
+        <tr>
+          <td style="text-align: left; font-weight: bold">{{avail[0]}}</td>
+          <td style="text-align: center; font-weight: bold">{{avail[1]}}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </center>
+  </body>
+</html>

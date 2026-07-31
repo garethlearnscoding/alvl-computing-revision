@@ -1,0 +1,673 @@
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', None, None, None]
+[None, None, None, '.', None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+CUR 2 3
+count 2
+dir 1u r
+tup (0, 1)
+add 2 4
+track -1
+2 4
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, None, '.', None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 2
+dir rep d
+tup (1, 0)
+add 3 4
+track 0
+3 4
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, None, '.', ')', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 2
+dir 1u d
+tup (1, 0)
+add 4 4
+track -1
+4 4
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, None, '.', ')', None, None]
+[None, None, None, None, '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 2
+dir rep l
+tup (0, -1)
+add 4 3
+track 0
+4 3
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, None, '.', ')', None, None]
+[None, None, None, ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir 1u l
+tup (0, -1)
+add 4 2
+track -1
+4 2
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, None, '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir rep u
+tup (-1, 0)
+add 3 2
+track 0
+3 2
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir rep u
+tup (-1, 0)
+add 2 2
+track 1
+2 2
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+[None, None, '/', ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir 1u u
+tup (-1, 0)
+add 1 2
+track -1
+1 2
+[None, None, None, None, None, None, None]
+[None, None, ' ', None, None, None, None]
+[None, None, '/', ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir rep r
+tup (0, 1)
+add 1 3
+track 0
+1 3
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', None, None, None]
+[None, None, '/', ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 3
+dir rep r
+tup (0, 1)
+add 1 4
+track 1
+1 4
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', None, None]
+[None, None, '/', ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir 1u r
+tup (0, 1)
+add 1 5
+track -1
+1 5
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', None, None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep d
+tup (1, 0)
+add 2 5
+track 0
+2 5
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', None, None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep d
+tup (1, 0)
+add 3 5
+track 1
+3 5
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', None, None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep d
+tup (1, 0)
+add 4 5
+track 2
+4 5
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir 1u d
+tup (1, 0)
+add 5 5
+track -1
+5 5
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, None, None, None, None, ' ', None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep l
+tup (0, -1)
+add 5 4
+track 0
+5 4
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, None, None, None, ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep l
+tup (0, -1)
+add 5 3
+track 1
+5 3
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, None, None, ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 4
+dir rep l
+tup (0, -1)
+add 5 2
+track 2
+5 2
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir 1u l
+tup (0, -1)
+add 5 1
+track -1
+5 1
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, None, '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep u
+tup (-1, 0)
+add 4 1
+track 0
+4 1
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, None, '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep u
+tup (-1, 0)
+add 3 1
+track 1
+3 1
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, None, '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep u
+tup (-1, 0)
+add 2 1
+track 2
+2 1
+[None, None, None, None, None, None, None]
+[None, None, ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep u
+tup (-1, 0)
+add 1 1
+track 3
+1 1
+[None, None, None, None, None, None, None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir 1u u
+tup (-1, 0)
+add 0 1
+track -1
+0 1
+[None, '-', None, None, None, None, None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep r
+tup (0, 1)
+add 0 2
+track 0
+0 2
+[None, '-', '-', None, None, None, None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep r
+tup (0, 1)
+add 0 3
+track 1
+0 3
+[None, '-', '-', '-', None, None, None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep r
+tup (0, 1)
+add 0 4
+track 2
+0 4
+[None, '-', '-', '-', '-', None, None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 5
+dir rep r
+tup (0, 1)
+add 0 5
+track 3
+0 5
+[None, '-', '-', '-', '-', '-', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir 1u r
+tup (0, 1)
+add 0 6
+track -1
+0 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir rep d
+tup (1, 0)
+add 1 6
+track 0
+1 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', None]
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir rep d
+tup (1, 0)
+add 2 6
+track 1
+2 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', None]
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir rep d
+tup (1, 0)
+add 3 6
+track 2
+3 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', None]
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir rep d
+tup (1, 0)
+add 4 6
+track 3
+4 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', None]
+[None, None, None, None, None, None, None]
+
+count 6
+dir rep d
+tup (1, 0)
+add 5 6
+track 4
+5 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, None, None, None, None, None]
+
+count 6
+dir 1u d
+tup (1, 0)
+add 6 6
+track -1
+6 6
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, None, None, None, None, '-']
+
+count 6
+dir rep l
+tup (0, -1)
+add 6 5
+track 0
+6 5
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, None, None, None, '-', '-']
+
+count 6
+dir rep l
+tup (0, -1)
+add 6 4
+track 1
+6 4
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, None, None, '-', '-', '-']
+
+count 6
+dir rep l
+tup (0, -1)
+add 6 3
+track 2
+6 3
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, None, '-', '-', '-', '-']
+
+count 6
+dir rep l
+tup (0, -1)
+add 6 2
+track 3
+6 2
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, None, '-', '-', '-', '-', '-']
+
+count 6
+dir rep l
+tup (0, -1)
+add 6 1
+track 4
+6 1
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '-', '-', '-', '-', '-', '-']
+
+count 7
+dir 1u l
+tup (0, -1)
+add 6 0
+track -1
+6 0
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 5 0
+track 0
+5 0
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+[None, '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 4 0
+track 1
+4 0
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+[None, ' ', '.', '.', ')', ' ', ' ']
+['c', '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 3 0
+track 2
+3 0
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+[None, '\\', '/', ')', ' ', ' ', ' ']
+['(', ' ', '.', '.', ')', ' ', ' ']
+['c', '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 2 0
+track 3
+2 0
+[None, '-', '-', '-', '-', '-', '-']
+[None, ' ', ' ', ' ', ' ', ' ', ' ']
+['(', '\\', '/', ')', ' ', ' ', ' ']
+['(', ' ', '.', '.', ')', ' ', ' ']
+['c', '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 1 0
+track 4
+1 0
+[None, '-', '-', '-', '-', '-', '-']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['(', '\\', '/', ')', ' ', ' ', ' ']
+['(', ' ', '.', '.', ')', ' ', ' ']
+['c', '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+count 7
+dir rep u
+tup (-1, 0)
+add 0 0
+track 5
+0 0
+['-', '-', '-', '-', '-', '-', '-']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['(', '\\', '/', ')', ' ', ' ', ' ']
+['(', ' ', '.', '.', ')', ' ', ' ']
+['c', '(', '"', ')', '(', '"', ')']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ']
+['-', '-', '-', '-', '-', '-', '-']
+
+-------
+       
+(\/)   
+( ..)  
+c(")(")
+       
+-------
