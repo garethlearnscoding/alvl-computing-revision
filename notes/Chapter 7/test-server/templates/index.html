@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <body>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+      <input type="file" name="image" />
+
+      <input type="submit" value="Upload" />
+    </form>
+    {% if image %}
+    <img src="{{ url_for('static',filename=image)}}" />
+    {% endif %}
+  </body>
+</html>

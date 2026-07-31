@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+ <html>
+    <body>
+        <form action="/" method="post">
+            <label for="username">username</label>
+            <input type="text"  name="username">
+            <label for="age">age</label>
+            <input type="number" name="age">
+            <input type="submit">
+        </form>
+        {% if username and age %}
+        <table border="1">
+            <tr>
+                <th>Username</th>
+                <th>Age</th>
+            </tr>
+            <tr>
+                <td>{{username}}</td>
+                <td>{{age}}</td>
+            </tr>
+        </table>
+    </body>
+ </html>
