@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Members
+        </title>
+    </head>
+    <body>
+        <h1>Members</h1>
+        <table>
+            <tr>
+                <th>Character Name</th>
+                <th>Event Name</th>
+                <th>Score</th>
+            </tr>
+            {% for i in members %}
+            <tr>
+                {% for j in i %}
+                <td>{{j}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>
