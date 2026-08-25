@@ -1,0 +1,11 @@
+<table style="border-collapse: collapse">
+  {% for i in timeline %}
+  <tr style="height: 40px; border-left: solid 1px black">
+    <td style="width: 30px; border-bottom: solid 1px black"></td>
+    <td rowspan="2">{{i}}</td>
+  </tr>
+  <tr style="height: 40px; border-left: solid 1px black">
+    <td style="width: 30px"></td>
+  </tr>
+  {% endfor %}
+</table>

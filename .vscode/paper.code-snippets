@@ -1,0 +1,131 @@
+{
+  // Place your H2 Computing workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+  //
+  // You can also restrict snippets to specific files using include/exclude patterns:
+  // "Test snippet": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "test",
+  // 	"body": "test('$1', () => {\n\t$0\n});",
+  // 	"include": ["**/*.test.ts", "*.spec.ts"],
+  // 	"exclude": ["**/temp/*.ts"],
+  // 	"description": "Insert test block"
+  // }
+  "update warning": {
+    "scope": "markdown",
+    "prefix": "!u",
+    "body": ["<span style='color:#ff0000'>Update: </span>"],
+    "description": "Insert update warning for future reference",
+    "include": "**/*.ipynb",
+  },
+  "mark allocation": {
+    "scope": "markdown",
+    "prefix": "mark",
+    "body": ["<p style='text-align:right'>[$1]</p>", "$0"],
+    "description": "To insert syntax for indication of mark allocation",
+    "include": "**/*.ipynb",
+  },
+  "underline": {
+    "scope": "markdown",
+    "prefix": "underline",
+    "body": ["<span style='text-decoration:underline'>$1</span>$0"],
+    "description": "To insert HTML tags for underline text",
+    "include": "**/*.ipynb",
+  },
+  "dashed": {
+    "scope": "markdown",
+    "prefix": "dashed",
+    "body": [
+      "<span style='border-bottom: 1.5px dashed black; padding-bottom: 2px;'>$1</span>$0",
+    ],
+    "description": "To insert HTML tags for underline-dashed text",
+    "include": "**/*.ipynb",
+  },
+  "dashed underline": {
+    "scope": "markdown",
+    "prefix": "daul",
+    "body": [
+      "<span style='border-bottom: 1.5px dashed black; padding-bottom: 2px;text-decoration:underline'>$1</span>$0",
+    ],
+    "description": "To insert HTML tags for dashed & underline text",
+    "include": "**/*.ipynb",
+  },
+  "inline function highlighting": {
+    "scope": "markdown",
+    "prefix": "ilhl-fn",
+    "body": [
+      "<span style='color:#3e66f4;'>$1</span><span style='color:#d83439'>(</span>$2<span style='color:#d83439'>)</span>$0",
+    ],
+    "description": "To insert HTML tags for inline function highlighting",
+    "include": "**/*.ipynb",
+  },
+  "inline variable highlighting": {
+    "scope": "markdown",
+    "prefix": "ilhl-var",
+    "body": ["<span style='color:#ED7117;'>$1</span>$0"],
+    "description": "To insert HTML tags for inline variable highlighting",
+    "include": "**/*.ipynb",
+  },
+  "inline filename highlighting": {
+    "scope": "markdown",
+    "prefix": "ilhl-file",
+    "body": ["<span style='color:#9667E0;'>$1</span>$0"],
+    "description": "To insert HTML tags for inline variable file name highlighting",
+    "include": "**/*.ipynb",
+  },
+  "inline class highlighting": {
+    "scope": "markdown",
+    "prefix": "ilhl-class",
+    "body": ["<em style='color:#df9175;'>$1</em>$0"],
+    "description": "To insert HTML tags for inline variable file name highlighting",
+    "include": "**/*.ipynb",
+  },
+  "table python example": {
+    "scope": "markdown",
+    "prefix": "test-example",
+    "body": [
+      "<table style='border: solid 1px black;boder-collapse:collapse'>",
+      "<tr><td>",
+      "",
+      "```python",
+      "$1",
+      "```",
+      "",
+      "</td></tr>",
+      "</table>",
+      "$0",
+    ],
+    "description": "To insert boilerplate for table and python highlighiting",
+    "include": "**/*.ipynb",
+  },
+  "mono text": {
+    "scope": "markdown",
+    "prefix": "mono",
+    "body": [
+      "<span style='font-family:Cascadia Code, Consolas, monospace;'>$1</span>",
+    ],
+    "description": "To insert HTML for monospace text",
+    "include": "**/*.ipynb",
+  },
+  "emdash": {
+    "scope": "markdown",
+    "prefix": "emd",
+    "body": ["&mdash; $0"],
+    "description": "To insert HTMl escape code for emdash",
+    "include": "**/*.ipynb",
+  },
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Booking Page</title>
+    </head>
+    <body>
+        <h1>Booking Page</h1>
+        <form action="/check" method="post">
+            <table>
+                <tr>
+                    <td>
+                    <label for="email">Member email address:</label>
+                    <input type="email" name="email" id="email" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <label for="pwd">Password</label>
+                    <input type="text" name="pwd" id="pwd" required >
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br>
+                    <label for="concert">Concert</label>
+                    <select name="concert" id="concert" required>
+                        {% for i in concert_data %}
+                        <option value="{{i}}"">{{i}}</option>
+                        {% endfor %}
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <label for="tix">Quantity of tickets</label>
+                    <input type="number" name="tix" id="tix" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="submit"></td>
+                </tr>
+             </table>
+        </form>
+    
+    </body>
+
+
+
+
+</html>
