@@ -98,6 +98,7 @@
     "scope": "markdown",
     "prefix": "test-example",
     "body": [
+      "Test your function with the following example:",
       "<table style='border: solid 1px black;boder-collapse:collapse'>",
       "<tr><td>",
       "",

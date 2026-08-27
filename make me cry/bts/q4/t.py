@@ -4,6 +4,6 @@ def fac(n):
     else:
         return n*fac(n-1)
 
-print(fac(5))
+print(fac(9))
 
 
