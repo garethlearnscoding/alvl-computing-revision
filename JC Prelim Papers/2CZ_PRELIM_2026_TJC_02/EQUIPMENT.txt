@@ -1,0 +1,41 @@
+EquipmentID,Name,Category,Location,Status,Borrower
+E1001,Dell Latitude 5440,Laptop,ICT Resource Room,AVAILABLE,
+E1002,Lenovo ThinkPad E14,Laptop,ICT Resource Room,ON_LOAN,Siti Aisyah
+E1003,Apple iPad 10th Gen,Tablet,Library,AVAILABLE,
+E1004,Samsung Galaxy Tab S9,Tablet,Library,ON_LOAN,Marcus Lee
+E1005,Canon EOS 250D,Camera,Media Room,AVAILABLE,
+E1006,Nikon D3500,Camera,Media Room,ON_LOAN,Nur Iman
+E1007,Zoom H1n Recorder,Audio Recorder,Media Room,AVAILABLE,
+E1008,Rode Wireless GO II,Microphone,Media Room,AVAILABLE,
+E1009,Pasco Temperature Sensor,Data Logger Sensor,Science Laboratory 1,ON_LOAN,Cheryl Tan
+E1010,Pasco Light Sensor,Data Logger Sensor,Science Laboratory 1,AVAILABLE,
+E1011,Pasco pH Sensor,Data Logger Sensor,Science Laboratory 2,AVAILABLE,
+E1012,Pasco Motion Sensor,Data Logger Sensor,Science Laboratory 2,ON_LOAN,Daniel Wong
+E1013,TI-Nspire CX II,Graphing Calculator,Mathematics Room,AVAILABLE,
+E1014,Casio fx-CG50,Graphing Calculator,Mathematics Room,ON_LOAN,Aaron Lim
+E1015,Epson EB-X49,Projector,General Office,AVAILABLE,
+E1016,BenQ MW560,Projector,General Office,AVAILABLE,
+E1017,Logitech C920,Webcam,ICT Resource Room,ON_LOAN,Farah Nabilah
+E1018,Blue Yeti Nano,Microphone,Media Room,AVAILABLE,
+E1019,HP ProBook 440 G10,Laptop,ICT Resource Room,AVAILABLE,
+E1020,Acer TravelMate P2,Laptop,ICT Resource Room,ON_LOAN,Jun Hao
+E1021,Apple iPad Air 5,Tablet,Library,AVAILABLE,
+E1022,Microsoft Surface Go 3,Tablet,Library,AVAILABLE,
+E1023,Sony ZV-E10,Camera,Media Room,ON_LOAN,Grace Ng
+E1024,Canon PowerShot G7 X,Camera,Media Room,AVAILABLE,
+E1025,Tascam DR-05X,Audio Recorder,Media Room,AVAILABLE,
+E1026,Shure MV7,Microphone,Media Room,ON_LOAN,Ryan Koh
+E1027,Vernier Go Direct Temperature,Data Logger Sensor,Science Laboratory 1,AVAILABLE,
+E1028,Vernier Go Direct Pressure,Data Logger Sensor,Science Laboratory 1,AVAILABLE,
+E1029,Vernier Go Direct Conductivity,Data Logger Sensor,Science Laboratory 2,ON_LOAN,Mei Xuan
+E1030,Vernier Go Direct Force,Data Logger Sensor,Science Laboratory 2,AVAILABLE,
+E1031,TI-84 Plus CE,Graphing Calculator,Mathematics Room,AVAILABLE,
+E1032,Casio ClassPad II,Graphing Calculator,Mathematics Room,ON_LOAN,Isaac Goh
+E1033,ViewSonic PA503W,Projector,General Office,AVAILABLE,
+E1034,Epson CO-FH02,Projector,General Office,ON_LOAN,Ms Priya
+E1035,Logitech Brio 500,Webcam,ICT Resource Room,AVAILABLE,
+E1036,Jabra Speak 510,Speakerphone,ICT Resource Room,AVAILABLE,
+E1037,Chromebook Spin 511,Laptop,ICT Resource Room,ON_LOAN,Amirul Hakim
+E1038,Huawei MatePad 11.5,Tablet,Library,AVAILABLE,
+E1039,Fujifilm X-S10,Camera,Media Room,AVAILABLE,
+E1040,Olympus LS-P4,Audio Recorder,Media Room,ON_LOAN,Samantha Yeo
