@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+<title>Student Results</title>
+</head>
+<body>
+<form action='/' method='post'>
+    <select name="student">
+        <option value="" disabled selected hidden>Select a Student</option>
+        {% for i in namelist %}
+        <option value="{{i}}">{{i}}</option>
+        {% endfor %}
+    </select>
+    <input type="submit">
+</form>
+
+<center>
+<table border="1" style="border-collapse:collapse">
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Subject 1</th>
+        <th>Grade</th>
+        <th>Subject 2</th>
+        <th>Grade</th>
+        <th>Subject 3</th>
+        <th>Grade</th>
+        <th>Subject 4</th>
+        <th>Grade</th>
+        <th>Subject 5</th>
+        <th>Grade</th>
+    </tr>
+    {% for j in results %}
+    <tr>
+        {% for h in j %}
+        <td>{{h}}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
+</center>
